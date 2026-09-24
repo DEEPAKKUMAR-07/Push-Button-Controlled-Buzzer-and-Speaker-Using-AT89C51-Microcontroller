@@ -134,7 +134,7 @@ void main(void)
 | Pressed | HIGH | HIGH | ON |
 
 ## Output
-![Uploading image.png…]()
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/89277448-3cdd-4afa-8211-e61953db64d3" />
 
 ## Applications
 
