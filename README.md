@@ -133,21 +133,21 @@ void main(void)
 | Released | LOW | LOW | OFF |
 | Pressed | HIGH | HIGH | ON |
 
-##Output
+## Output
 
 When button is released:
 
-P1.2 = 0
-P3.2 = 0
-Buzzer = OFF
-Speaker = OFF
+-P1.2 = 0
+-P3.2 = 0
+-Buzzer = OFF
+-Speaker = OFF
 
 When button is pressed:
 
-P1.2 = 1
-P3.2 = 1
-Buzzer = ON
-Speaker = ON
+-P1.2 = 1
+-P3.2 = 1
+-Buzzer = ON
+-Speaker = ON
 
 ## Applications
 
